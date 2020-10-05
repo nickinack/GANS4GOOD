@@ -9,6 +9,8 @@ Please only use it as a reference. The quiz and assignments are relatively easy 
 ## 1. Build Basic Generative Adversarial Networks (GANs)
 - Week1
   - Build a GAN from scratch using pyTorch
+  - Build DCGANS using pyTorch
+  - Build WGANS using pyTorch
 
 
 ## Author
